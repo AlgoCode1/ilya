@@ -1,18 +1,18 @@
 body {
     background-color: #AEF26D; 
-    font-family:sans-serif
+    font-family:sans-serif;
 }
 h1 {
     text-align:center;
     color:#920031;
-    background:#65EC3B
+    background:#65EC3B;
 }
 
 table {
-    border: 2px solid #4E026E
+    border: 2px solid #4E026E;
 }
 
 td {
     text-align: center;
-    border: 2px solid #4E026E
+    border: 2px solid #4E026E;
 }
