@@ -1,11 +1,11 @@
 body {
-    background-color: #AEF26D; 
+    background-color: hsl(60, 5%, 96%); 
     font-family:sans-serif;
 }
 h1 {
     text-align:center;
     color:#920031;
-    background:#65EC3B;
+    background:#f4f4f4;
 }
 
 table {
@@ -16,3 +16,11 @@ td {
     text-align: center;
     border: 2px solid #4E026E;
 }
+
+img{
+    width:100px ;
+    height: 100px;
+}
+
+
+
