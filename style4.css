@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+background-color: rgb(109, 131, 217);
+font-size: 20px;
+}
+
+img {
+
+
+    border-radius: 40px;
+}
+
+
+a {
+    text-decoration: none;
+    background-color: rgb(8, 113, 234);
+    border-radius: 20px;
+    padding: 10px;
+    top: 10px;
+}
